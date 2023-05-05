@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="description" content="Website Adobsi Hewan Peliharaan">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- aos js by michalsnik -->
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+        <!-- Font awesome 5 -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+        <!-- Google font : Sawarabi Gothic -->
+        <link rel="stylesheet" href="https://fonts.google.com/specimen/Sawarabi+Gothic?query=Sawarabi+Gothic">
+        <!-- tailwind css -->
+        <link rel="stylesheet" href="/dist/output.css">
+        <title>Document</title>
+    </head>
+    <body class="font-sawarabi text-primary overflow-y-auto scroll-">
+        <header class="navigation-bar">
+            <div id="nav" class="bg-white container w-screen fixed top-0 z-50 drop-shadow-xl">
+                <!-- parent container -->
+                <nav class="flex flex-col items-center  px-10 py-10 lg:py-0 lg:flex-row">
+                    <!-- brand logo -->
+                    <div class="flex justify-between  px-5">
+                        <div class="flex items-center justify-center">
+                            <a href="" class="font-semibold"><img src="src/img/Brand-logo.png" alt="brand-logo" class="" /></a>
+                        </div>
+                        <div class="lg:hidden">
+                            <button id="btn-nav" class="">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-6 w-6">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 016 3.75h2.25A2.25 2.25 0 0110.5 6v2.25a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25V6zM3.75 15.75A2.25 2.25 0 016 13.5h2.25a2.25 2.25 0 012.25 2.25V18a2.25 2.25 0 01-2.25 2.25H6A2.25 2.25 0 013.75 18v-2.25zM13.5 6a2.25 2.25 0 012.25-2.25H18A2.25 2.25 0 0120.25 6v2.25A2.25 2.25 0 0118 10.5h-2.25a2.25 2.25 0 01-2.25-2.25V6zM13.5 15.75a2.25 2.25 0 012.25-2.25H18a2.25 2.25 0 012.25 2.25V18A2.25 2.25 0 0118 20.25h-2.25A2.25 2.25 0 0113.5 18v-2.25z" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="mt-10 flex w-full flex-col items-center  lg:mt-0 lg:flex-row">
+                        <!-- navigation item -->
+                        <div class="flex w-full flex-col justify-center  px-5 text-center lg:flex-row">
+                            <a href="#section-hero" class="nav-item px-4 py-2 capitalize hover:text-primary text-primaryText">home</a>
+                            <a href="#section-adoption" class="nav-item px-4 py-2 capitalize hover:text-primary text-primaryText">Adoption</a>
+                            <a href="#section-community" class="nav-item px-4 py-2 capitalize hover:text-primary text-primaryText">Community</a>
+                            <a href="#section-stories" class="nav-item px-4 py-2 capitalize hover:text-primary text-primaryText">Stories with pet</a>
+                            <a href="#section-faq" class="nav-item px-4 py-2 capitalize hover:text-primary text-primaryText">FAQ</a>
+                        </div>
+                        <div class="flex min-w-fit flex-col items-center justify-center  text-center lg:flex-row">
+                            <a href="#" class="order-last mx-2 my-5 min-w-fit items-center rounded-md  text-primary lg:order-first"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="h-6 w-6 ">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+                                </svg>
+                            </a>
+                            <a href="#" class="mx-2 w-full min-w-fit rounded-md px-6 py-3 text-primarybg-primary">Sign In</a>
+                            <a href="#" class="mx-2 w-full min-w-fit rounded-md bg-primary px-6 py-3 text-blue-50">Sign Up</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <!-- section hero -->
+            <section id="section-hero" class="h-screen bg-gradient-to-t from-blue-50 via-transparent to-blue-50 bg-opacity-30">
+                <div class="container w-full h-full px-10 lg:px-20 text-center lg:text-start">
+                    <div class="grid w-full h-full grid-cols-1 lg:grid-cols-2">
+                        <div class="flex items-center justify-center lg:order-2" data-aos="fade-left" data-aos-duration="1000">
+                            <img src="src/img/hero.png" alt="hero-animals" class="w-full">
+                        </div>
+                        <div class="w-full h-full px-10 flex flex-col items-center justify-center lg:items-start" data-aos="fade-left" data-aos-duration="1000">
+                            <div class="main-content ">
+                                <div class="body-content ">
+                                    <div class="mb-10 w-full lg:w-3/4 relative ">
+                                        <img src="src/img/pet.png" alt="foot-step" class="hidden lg:block absolute lg:me-20 top-0 right-0 ">
+                                        <h1 class="text-hero lg:w-3/4 ">Let's Choose and Adopt your new Pet</h1>
+                                    </div>
+                                    <p class="w-full lg:w-1/2 my-10 text-subhero text-primaryText">Adopt a pet, give them the best treatment, and you will feel really happy of friendship with your pet. </p>
+                                </div>
+                                <div class="w-full footer-content flex flex-col items-center justify-center lg:items-start">
+                                    <div class="btn-grup md:w-3/4 grid grid-cols-1 lg:grid-cols-2 ">
+                                        <a href="" class="max-w-md bg-primary text-textbtn text-secolor rounded-xl px-8 py-4 hover:drop-shadow-xl shadow-primary text-center">Adopt now</a>
+                                        <a href="" class="max-w-md px-8 py-4 text-textbtn hover:text-blue-800 text-center">Donate for food</a>
+                                    </div>
+                                    <div class="support-content mt-16">
+                                        <div class="tittle-support text-textsmall uppercase">Supported by:</div>
+                                        <div class="image-support flex items-center justify-start mt-5">
+                                            <img src="src/img/support-1.png" alt="image-support" class="">
+                                            <img src="src/img/support-2.png" alt="image-support" class="ms-5">
+                                            <img src="src/img/support-3.png" alt="image-support" class="ms-5">
+                                            <img src="src/img/support-4.png" alt="image-support" class="ms-5">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section adoption -->
+            <section id="section-adoption" class="">
+                <div class="container h-screen px-10 lg:px-20 text-center lg:text-start">
+                    <div class="grid w-full h-full grid-cols-1 lg:grid-cols-2">
+                        <div class="px-5 lg:px-10 flex flex-col items-center justify-center lg:items-start">
+                            <div class="header-content flex flex-col lg:items-start lg:justify-start" data-aos="fade-right" data-aos-duration="1000">
+                                <h3 class="text-subjudul text-primaryText uppercase">our mission for pet</h3>
+                                <h1 class="lg:w-3/4 text-tittle text-primary font-semibold">Let's Choose and Adopt your New Lovely Pet</h1>
+                            </div>
+                            <div class="body-content mt-3 lg:mt-16" data-aos="fade-right" data-aos-duration="500">
+                                <img src="src/img/section-adopt.png" alt="image-adoption" class="w-full">
+                            </div>
+                        </div>
+                        <div class="w-full h-full flex flex-col items-center justify-center lg:px-10">
+                            <div class="lg:px-10">
+                                <div class="my-5 lg:my-10" data-aos="fade-down" data-aos-duration="700">
+                                    <div class="">
+                                        <p class=" text-primaryText">You need to see some pets in Adoptme. We have the friend that's you need to have. We also have the equipment you need to take care of it. </p>
+                                    </div>
+                                    <div class="">
+                                        <div class="lg:my-10 py-5 lg:py-10">
+                                            <div class="w-full lg:w-1/2">
+                                                <h3 class="text-primaryText uppercase">adoptme community</h3>
+                                                <h1 class="text-primary font-semibold semi-bold text-tittle">Connect with adoptme across the country</h1>
+                                            </div>
+                                        </div>
+                                        <p class=">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias facere molestiae quibusdam aperiam maiores. Minus, quas. Consequuntur, aliquid rem sint aperiam cum vero in voluptate, est voluptatum nemo molestias tempore?"></p>
+                                    </div>
+                                    <div class=" footer w-full lg:mt-10">
+                                        <div class="w-full grid grid-cols-3">
+                                            <div class="content text-center lg:px-5">
+                                                <div class="head text-tittle">
+                                                    <span id="count-1" data-target="150"></span>k+
+                                                </div>
+                                                <div class="body lg:w-32 text-primaryText text-subjudul">proin vestibulum, duis. im dol.</div>
+                                            </div>
+                                            <div class="content text-center lg:px-5">
+                                                <div class="head text-tittle">
+                                                    <span id="count-2" data-target="2000"></span>+
+                                                </div>
+                                                <div class="body lg:w-32 text-primaryText text-subjudul">proin ulduis. isimuim dol.</div>
+                                            </div>
+                                            <div class="content text-center lg:px-5">
+                                                <div class="head text-tittle">
+                                                    <span id="count-3" data-target="3000"></span>+
+                                                </div>
+                                                <div class="body lg:w-32 text-primaryText text-subjudul">proin vestibulum, duis. im dua.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section community -->
+            <section id="section-community" class="">
+                <div class="container h-full px-10 lg:px-20 text-center lg:text-start border-red-500">
+                    <div class="w-full h-full flex flex-col items-center lg:items-start justify-center" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="flex w-full items-center justify-center lg:px-10 lg:py-10">
+                            <div class="w-full text-primaryText py-5 lg:py-10">
+                                <div class="w-full lg:w-1/2 mb-5 lg:mb-10">
+                                    <h3 class="text-subjudul text-primaryText uppercase">adoption pet</h3>
+                                    <h1 class="lg:w-1/2 text-tittle font-semibold text-primary">Adopt the pet that has waited too long</h1>
+                                </div>
+                                <div class="lg:w-1/2">
+                                    <p class="lg:w-3/4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. It ac purus eget. Sit dolor est proin vestibulum, duis. im dolor sit amet, consectetur adipisci. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card animals adopt -->
+                    <div class="w-full h-full mt-5 hidden lg:flex lg:items-center lg:justify-end" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="hidden lg:flex lg:justify-end lg:items-center">
+                            <button class="px-6 py-3 bg-secolor text-subhero mx-2 drop-shadow-md rounded-xl focus:shadow-primary focus:drop-shadow-lg ">
+                                <span class="mr-5">Filter</span><i class="fas fa-chevron-down fa-sliders-h"></i>
+                            </button>
+                            <button id="btn-prev" class="px-6 py-3 bg-secolor text-subhero mx-2 drop-shadow-md rounded-xl focus:shadow-primary focus:drop-shadow-lg ">
+                                <i class="fas fa-chevron-down fa-chevron-left"></i>
+                            </button>
+                            <button id="btn-next" class="px-6 py-3 bg-secolor text-subhero mx-2 drop-shadow-md rounded-xl focus:shadow-primary focus:drop-shadow-lg ">
+                                <i class="fas fa-chevron-down fa-chevron-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <!-- card animals adopt -->
+                    <div class="h-full flex flex-col items-center lg:items-start justify-center">
+                        <div id="O-content" class="h-full container py-10 flex justify-start items-start overflow-x-scroll scroll-smooth overscroll-none">
+                            <!-- card content -->
+                            <div id="card" class="card-animal shrink-0 bg-gray-50 rounded-xl hover:drop-shadow-2xl">
+                                <div class="content-card px-5">
+                                    <div class="relative">
+                                        <img src="http://source.unsplash.com/300x400/?animals" alt="gambar" class="mt-5 rounded-xl">
+                                        <div id="layer-card" class="hidden absolute h-full w-full top-0 left-0 bg-gray-900 bg-opacity-50 rounded-xl">
+                                            <a href="" class="absolute bg-pirmatext-primaryText bg-primary text-gray-50 px-6 py-3 rounded-xl top-1/2 left-1/2 -translate-x-1/2">Adopt</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="my-2 text-center">
+                                    <h1>Lorem, ipsum dolor.</h1>
+                                    <p>Lorem ipsum dolor sit amet.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end card content -->
+                    <!-- animals stories -->
+                    <div id="section-stories" class="w-full my-10 py-10 lg:my-40 grid grid-cols-1 lg:grid-cols-2 ">
+                        <div class="w-full flex justify-center items-center main-content" data-aos="fade-left" data-aos-duration="1000">
+                            <img src="http://source.unsplash.com/300x400/?animals" alt="animal-stories">
+                        </div>
+                        <div class="w-full flex flex-col justify-center items-center lg:items-start my-10">
+                            <div class="w-full lg:w-3/4" data-aos="fade-right" data-aos-duration="1000">
+                                <h3 class="text-subjudul text-primaryText uppercase">Stories with pet</h3>
+                                <h1 class="lg:w-1/2 text-tittle font-semibold text-primary">Sponsoring your pet before adopt</h1>
+                            </div>
+                            <div class="w-full mt-10" data-aos="fade-right" data-aos-duration="1000">
+                                <p class="lg:w-3/4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. It ac purus eget. Sit dolor est proin vestibulum, duis. im dolor sit amet, consectetur adipisci. </p>
+                            </div>
+                            <div class="w-full mt-10" data-aos="fade-right" data-aos-duration="1000">
+                                <a href="" class="bg-primary text-textbtn text-secolor rounded-xl px-8 py-4  hover:drop-shadow-xl shadow-primary text-center">Sponsor Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end animals stories -->
+                </div>
+                </div>
+            </section>
+            <!-- section FAQ -->
+            <section id="section-faq" class="h-screen bg-gradient-to-t from-blue-50 via-transparent to-blue-50 bg-opacity-30">
+                <div class="container h-full px-10 lg:px-20 text-center lg:text-start ">
+                    <div class="w-full h-full flex flex-col justify-center items-center ">
+                        <div class="flex flex-col items-center justify-center  text-center py-10 lg:w-1/2" data-aos="fade-down" data-aos-duration="1000">
+                            <h3 class="text-subjudul text-primaryText uppercase">Forum answer and question</h3>
+                            <h1 class="text-tittle font-semibold">Adopt the pet that has waited too long</h1>
+                            <p class="text-subhero text-primaryText py-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore pariatur tempore cupiditate minima culpa quasi similique accusamus. Magnam, aperiam maiores!</p>
+                        </div>
+                        <!-- ini bungkusannya -->
+                        <div class="w-full grid grid-cols-1 lg:grid-cols-2 lg:gap-10 drop-shadow-2xl p-5 mt-10">
+                            <div id="" class="">
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                            </div>
+                            <div id="" class="">
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                                <div id="cover" class="bg-secolor flex flex-col justify-start border border-border items-start p-5">
+                                    <div id="btn-show" class="w-full flex flex-col text-primary item-center justify-start cursor-pointer">
+                                        <button class="w-full flex justify-between font-semibold">
+                                            <h1>Button Primary</h1>
+                                            <i id="btn-icon" class="fas fa-chevron-down"></i>
+                                        </button>
+                                    </div>
+                                    <p id="desk-content" class="lg:w-4/5 text-primaryText mt-5 hidden text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi quisquam at harum molestias, neque et! Assumenda, sint. Repellendus alias officiis ex. Veniam, maiores. Expedita architecto nisi assumenda ipsum nobis necessitatibus.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end ini bungkusannya -->
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <!-- end for pages -->
+            <div class="container h-full py-5">
+                <div class="grid grid-cols-1">
+                    <h1 class=" text-center font-semibold">UI Desainer.</h1>
+                    <div class="flex items-center justify-center">
+                        <a href="https://dribbble.com/shots/18631433-Adoptme-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=Yonaa_&utm_content=Adoptme%20-%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Yonaa_&utm_content=Adoptme%20-%20Landing%20Page&utm_medium=Social_Share" class="hover:text-blue-600"><i class="fab fa-dribbble"></i> Yohana Marlina</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Javascript sources -->
+        <script src="component.js"></script>
+        <script src="app.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init();
+        </script>
+    </body>
+</html>
