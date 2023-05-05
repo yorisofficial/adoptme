@@ -18,7 +18,7 @@ Mungkin ini akan berguna nantik jika saya butuh, ini merupakan template tambahan
 
 ## Features
 
-- Userfriendly
+- User friendly
 - Easy to use
 - Cross platform
 
