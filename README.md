@@ -1,11 +1,11 @@
 # ADOPT ME 
 Adopt pet and support for food
+
+## UI & UX Figma
 ![SHOT IMAGE](https://github.com/yorisofficial/adoptme/blob/main/Shot.jpg)
 
-
-# ADOPT ME Landing Page
-
-Mungkin ini akan berguna nantik jika saya butuh, ini merupakan template tambahan untuk dijadikan plugin di next project.
+## Demo
+- https://yorisofficial.github.io/adoptme/
 
 
 
