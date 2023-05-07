@@ -1,17 +1,12 @@
 // Menentukan jumlah perulangan
 const numCards = 5;
 
-// Memilih elemen dengan id "O-content"
 const oContent = document.getElementById("O-content");
 
-// Looping sebanyak numCards
 for (let i = 0; i < numCards; i++) {
-  // Membuat elemen div baru dengan class "card" dan "shrink-0"
   const card = document.createElement("div");
   card.classList.add("card", "shrink-0", "bg-gray-50", "rounded-xl", "hover:drop-shadow-2xl");
-  card.id = "card"; // Menambahkan id untuk setiap elemen
 
-  // Menambahkan isi dari elemen div
   card.innerHTML = `
     <div class="px-5">
       <div class="relative">
@@ -27,17 +22,13 @@ for (let i = 0; i < numCards; i++) {
     </div>
   `;
 
-  // Menambahkan elemen baru ke dalam elemen dengan id "O-content"
   oContent.appendChild(card);
 }
 
-// JavaScript count up
-// Ambil elemen-elemen dengan id yang ingin dihitung
 const count1 = document.getElementById("count-1");
 const count2 = document.getElementById("count-2");
 const count3 = document.getElementById("count-3");
 
-// Fungsi untuk mengecek apakah elemen tersebut sudah terlihat di layar
 function isElementInView(element) {
   const rect = element.getBoundingClientRect();
   return (
@@ -48,9 +39,7 @@ function isElementInView(element) {
   );
 }
 
-// Fungsi untuk memulai animasi count up
 function startCountUp() {
-  // Jika elemen count1 terlihat di layar, jalankan animasi count up
   if (isElementInView(count1)) {
     const target1 = Number(count1.getAttribute("data-target"));
     let countTo1 = 0;
@@ -64,7 +53,6 @@ function startCountUp() {
     }, 20);
   }
 
-  // Lakukan hal yang sama untuk elemen count2 dan count3
   if (isElementInView(count2)) {
     const target2 = Number(count2.getAttribute("data-target"));
     let countTo2 = 0;
@@ -92,7 +80,6 @@ function startCountUp() {
   }
 }
 
-// Jalankan fungsi startCountUp setiap kali halaman di-scroll
 window.addEventListener("scroll", startCountUp);
 
 
