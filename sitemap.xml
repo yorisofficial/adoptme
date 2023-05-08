@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/yorisofficial/adoptme</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/LICENSE</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/issues</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/pulls</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/projects?query=is%3Aopen</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/security</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/README.md</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/app.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/component.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/index.html</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/package-lock.json</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/package.json</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/tailwind.config.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/releases</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/LICENSE</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/find/main</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/compare</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918744014</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918570488</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918555188</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4906877952</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896274542</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896270353</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896136609</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896131461</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896113617</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896092559</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896063401</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/README.md</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/main/README.md?plain=1</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/app.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/component.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/index.html</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/package-lock.json</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/package.json</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/tailwind.config.js</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/find/1345b714f6339ae096d96db0258d950645e3b7d2</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels?sort=name-asc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels?sort=name-desc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels?sort=count-desc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels?sort=count-asc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/bug</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/documentation</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/duplicate</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/enhancement</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/good%20first%20issue</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/help%20wanted</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/invalid</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/question</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/labels/wontfix</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918744014/jobs/8785467760</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918744014/jobs/8785479258</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918744014/jobs/8785479479</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918744014/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/1345b714f6339ae096d96db0258d950645e3b7d2</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918570488/jobs/8785076338</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918570488/jobs/8785088327</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918570488/jobs/8785088154</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918570488/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/c10578db2a22336ac44b5020ebb90da91cb06fb7</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918555188/jobs/8785041823</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918555188/jobs/8785049859</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918555188/jobs/8785050018</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4918555188/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/92e58cc1508d3a4d76cf26e8e59d92ce2acbff00</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4906877952/jobs/8761620438</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4906877952/jobs/8761624621</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4906877952/jobs/8761624648</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4906877952/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896274542/jobs/8742894121</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896274542/jobs/8742902604</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896274542/jobs/8742902451</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896274542/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/15a592922a17df3cd01c5a0c94481c863c9c0c24</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896270353/jobs/8742882439</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896270353/jobs/8742893854</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896270353/jobs/8742893667</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896270353/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/8d952f5be08949f16652003e5ed4d836c18baa85</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896136609/jobs/8742571781</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896136609/jobs/8742580732</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896136609/jobs/8742580842</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896136609/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/7b3582ce34fdce55897fe518f8fc1f3c867f7ab9</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896131461/jobs/8742559080</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896131461/jobs/8742567773</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896131461/jobs/8742567894</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896131461/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/769c84ebada95b0de8dc21f292dd3bbf64359315</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896113617/jobs/8742518515</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896113617/jobs/8742527523</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896113617/jobs/8742527670</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896113617/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/5c2528d8d77c3ac86be7d285ecef4e76d3c8adf7</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896092559/jobs/8742470379</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896092559/jobs/8742477014</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896092559/jobs/8742477143</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896092559/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896063401/jobs/8742401315</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896063401/jobs/8742409449</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896063401/jobs/8742409576</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/actions/runs/4896063401/usage</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/bb99befeb7a5da73ad81c6adccf063329e1703f8</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/blob/1345b714f6339ae096d96db0258d950645e3b7d2/README.md?plain=1</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/86fdd1c489ef4ea64fa49c21b339e8febc355033</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/703338d780e65f5734e823599884dfb4b76defff</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/3c4e8d56ed9e2bae7e8bf1f285e94c7fe90999b9</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/4380717b8d2bbf87f4771bc391705d2462037639</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/9c2c039117753066af77ec6d4c97f3b38d637787</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/9a432bd1b982d9dac75c402d68dd49209bce9cd5</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/b12dbdce5f4a2a1bb3c121a4052d95c8aeeb4a40</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/7f7790bba253606ed75779d59dbdf4e260e81753</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/d571b3682259d50baf407687d731525745e361bc</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/062a5c9560706f4d610ff168d264a9fbde66a856</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/yorisofficial/adoptme/commit/34317d0e634a8171b232ec72355bf4bd3465fc64</loc>
+  <lastmod>2023-05-08T19:24:54+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+
+
+</urlset>
