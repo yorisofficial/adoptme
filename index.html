@@ -12,12 +12,12 @@
         <!-- Google font : Sawarabi Gothic -->
         <link rel="stylesheet" href="https://fonts.google.com/specimen/Sawarabi+Gothic?query=Sawarabi+Gothic">
         <!-- tailwind css -->
-        <link rel="stylesheet" href="dist/output.css">
+        <link rel="stylesheet" href="/dist/output.css">
         <title>Document</title>
     </head>
     <body class="font-sawarabi text-primary overflow-y-auto scroll-">
         <header class="navigation-bar">
-            <div id="nav" class="container w-screen fixed top-0 z-50 drop-shadow-xl">
+            <div id="nav" class="bg-white container w-screen fixed top-0 z-50 drop-shadow-xl">
                 <!-- parent container -->
                 <nav class="flex flex-col items-center  px-10 py-10 lg:py-0 lg:flex-row">
                     <!-- brand logo -->
@@ -184,15 +184,15 @@
                             <div id="card" class="card-animal shrink-0 bg-gray-50 rounded-xl hover:drop-shadow-2xl">
                                 <div class="content-card px-5">
                                     <div class="relative">
-                                        <img src="http://source.unsplash.com/300x400/?animals" alt="gambar" class="mt-5 rounded-xl">
+                                        <img src="http://source.unsplash.com/300x400/?dogs" alt="gambar" class="mt-5 rounded-xl">
                                         <div id="layer-card" class="hidden absolute h-full w-full top-0 left-0 bg-gray-900 bg-opacity-50 rounded-xl">
-                                            <a href="" class="absolute bg-pirmatext-primaryText bg-primary text-gray-50 px-6 py-3 rounded-xl top-1/2 left-1/2 -translate-x-1/2">Adopt</a>
+                                            <a id="getDataButton" href="#section-stories" class="absolute bg-pirmatext-primaryText bg-primary text-gray-50 px-6 py-3 rounded-xl top-1/2 left-1/2 -translate-x-1/2" data-usia="2 Tahun" data-berat="25 Kg">More Details</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="my-2 text-center">
-                                    <h1>Lorem, ipsum dolor.</h1>
-                                    <p>Lorem ipsum dolor sit amet.</p>
+                                    <h1 id="nama">Shagy Dog</h1>
+                                    <p>post <span class="random"></span> week ago</p>
                                 </div>
                             </div>
                         </div>
@@ -201,12 +201,17 @@
                     <!-- animals stories -->
                     <div id="section-stories" class="w-full my-10 py-10 lg:my-40 grid grid-cols-1 lg:grid-cols-2 ">
                         <div class="w-full flex justify-center items-center main-content" data-aos="fade-left" data-aos-duration="1000">
-                            <img src="http://source.unsplash.com/300x400/?animals" alt="animal-stories">
+                            <img src="http://source.unsplash.com/300x400/?dogs" alt="animal-stories">
                         </div>
                         <div class="w-full flex flex-col justify-center items-center lg:items-start my-10">
                             <div class="w-full lg:w-3/4" data-aos="fade-right" data-aos-duration="1000">
                                 <h3 class="text-subjudul text-primaryText uppercase">Stories with pet</h3>
                                 <h1 class="lg:w-1/2 text-tittle font-semibold text-primary">Sponsoring your pet before adopt</h1>
+                            </div>
+                            <div class="detail-info text-primaryText mt-5" data-aos="fade-right" data-aos-duration="1000">
+                                <p id="info-nama">Nama: Shagy Dog</p>
+                                <p id="info-usia">Usia: 2 years old</p>
+                                <p id="info-berat">Berat : 15 Kg</p>
                             </div>
                             <div class="w-full mt-10" data-aos="fade-right" data-aos-duration="1000">
                                 <p class="lg:w-3/4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. It ac purus eget. Sit dolor est proin vestibulum, duis. im dolor sit amet, consectetur adipisci. </p>
