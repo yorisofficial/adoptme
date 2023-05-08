@@ -2,7 +2,7 @@
 const navbar = document.getElementById('nav');
 
 window.addEventListener('scroll', function () {
-  navbar.classList.toggle('bg-white', window.scrollY > 50);
+  navbar.classList.toggle('bg-white', window.scrollY > 10);
 });
 
 // Smooth scroll
