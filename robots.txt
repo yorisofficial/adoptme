@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /adoptme/app.js
+Disallow: /adoptme/component.js
+Disallow: /adoptme/src/img/
+Sitemap: https://example.com/adoptme/sitemap.xml
