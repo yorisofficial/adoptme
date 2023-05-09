@@ -2,7 +2,8 @@
 module.exports = {
   content: [
     './adoptme/index.html',
-    './adoptme/.js/**/*.js',
+    './adoptme/app.js',
+    './adoptme/component.js',
   ],
   theme: {
     extend: {
