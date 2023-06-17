@@ -5,7 +5,7 @@ Adopt pet and support for food
 ![SHOT IMAGE](https://github.com/yorisofficial/adoptme/blob/main/Shot.jpg)
 
 ## Demo
-- https://yorisofficial.github.io/adoptme/
+- https://yorisofficial.github.io/Tailwind_ADOPTME/
 
 
 
